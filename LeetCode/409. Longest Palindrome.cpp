@@ -1,5 +1,4 @@
-// 409. Longest Palindrome.cpp : 定义控制台应用程序的入口点。
-//
+// 409. Longest Palindrome.cpp
 
 #include "stdafx.h"
 #include "string"
